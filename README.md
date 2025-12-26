@@ -1,4 +1,5 @@
 Keylogger Using Python
+
 📌 Project Overview
 
 This project is a simple keylogger built using Python for educational purposes. It captures keyboard inputs and stores them in a log file. The main aim of this project is to understand how keyboard events work at the system level and to learn about basic cybersecurity concepts.
